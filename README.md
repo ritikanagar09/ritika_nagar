@@ -39,10 +39,7 @@
 ## Github Stats  
 ![GitHub Streak]([![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ritikanagar09&theme=dark&hide_border=true)](https://git.io/streak-stats))
 
-![Profile views counter](https://komarev.com/ghpvc/?username=ritikanagar09&&style=flat-square)  
-  
 
-<br/>  
 
 
 <br />
