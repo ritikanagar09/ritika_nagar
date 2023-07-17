@@ -1,5 +1,4 @@
-# Hey! I'm Ritika Nagar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
-## About me  
+# Hey! I'm Ritika Nagar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">   
   
 
 -🚀 Upcoming 4th year B.Tech Student pursuing Computer Science at IIIT Delhi.  
