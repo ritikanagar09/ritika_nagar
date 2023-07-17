@@ -2,8 +2,9 @@
   
 
 -🚀 Upcoming 4th year B.Tech Student pursuing Computer Science at IIIT Delhi.  
-  
 
+-🚀 Undergraduate Researcher at Network Security Lab. 
+  
 -🚀 I am currently exploring various fields and actively improving my DSA skills.  
   
 
