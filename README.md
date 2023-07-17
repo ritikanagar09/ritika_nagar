@@ -1,14 +1,14 @@
- 
+# Hey! I'm Ritika Nagar. <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 ## About me  
   
 
-- Upcoming 4th year B.Tech Student pursuing Computer Science at IIIT Delhi.  
+-🚀 Upcoming 4th year B.Tech Student pursuing Computer Science at IIIT Delhi.  
   
 
-- I am currently exploring various fields and actively improving my DSA skills.  
+-🚀 I am currently exploring various fields and actively improving my DSA skills.  
   
 
-- I enjoy coding, designing, and learning new things!  
+-🚀 I enjoy coding, designing, and learning new things!  
   
 
 <br/>  
