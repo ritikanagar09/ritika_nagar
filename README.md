@@ -8,7 +8,7 @@
 -🚀 I am currently exploring various fields and actively improving my DSA skills.  
   
 
--🚀 I enjoy coding, designing, and learning new things!  
+-🚀 I enjoy coding, and learning new things!  
   
 
 <br/>  
